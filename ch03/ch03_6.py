@@ -1,0 +1,2 @@
+# Show statistics
+dataframe.describe()

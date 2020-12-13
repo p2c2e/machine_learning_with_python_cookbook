@@ -1,0 +1,1 @@
+gridsearch = GridSearchCV(logistic, hyperparameters, cv=5, verbose=1)

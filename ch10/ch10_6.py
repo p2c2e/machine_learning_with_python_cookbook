@@ -1,0 +1,2 @@
+# Correlation matrix
+dataframe.corr()

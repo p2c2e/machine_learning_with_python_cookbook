@@ -1,0 +1,2 @@
+# Show dimensions
+image.shape

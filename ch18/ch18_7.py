@@ -1,0 +1,1 @@
+model_uniform_prior = BernoulliNB(class_prior=None, fit_prior=True)

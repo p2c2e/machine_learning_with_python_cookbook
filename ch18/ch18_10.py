@@ -1,0 +1,2 @@
+# View calibrated probabilities
+classifer_sigmoid.predict_proba(new_observation)

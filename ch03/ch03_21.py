@@ -1,0 +1,2 @@
+# Show counts
+dataframe.count()

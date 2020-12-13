@@ -1,0 +1,1 @@
+scores = cross_val_score(gridsearch, features, target)

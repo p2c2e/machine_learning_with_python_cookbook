@@ -1,0 +1,1 @@
+knn.predict(new_observations)

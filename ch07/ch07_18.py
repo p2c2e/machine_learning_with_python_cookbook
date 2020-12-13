@@ -1,0 +1,2 @@
+# Forward-fill
+dataframe.ffill()

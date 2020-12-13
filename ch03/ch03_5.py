@@ -1,0 +1,2 @@
+# Show dimensions
+dataframe.shape

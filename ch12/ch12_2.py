@@ -1,0 +1,1 @@
+np.logspace(0, 4, 10)
